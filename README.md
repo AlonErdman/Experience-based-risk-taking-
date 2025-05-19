@@ -51,5 +51,8 @@ The zip file include datasets of 5 participants to test the code on.
 Part 3:
 mixed models: the file 'mixed_model_code.R' includes the stan-glmer mixed models.This code reads a few csv file that are attached in the zip file.
 
+Part 4:
+Decoding analysis. Run the Matlab script 'risk_seeking_analysis_ERP_HR_decoding' within decoding scripts zip file.
+
 
 
